@@ -1,5 +1,5 @@
 # Football_Clubs_DBMS
-This is a very basic code written in python on pymysql module to provide football clubs maintain a database management system.
+This is a very basic code written in python on pymysql module to help football clubs maintain a database management system.
 <br>
 This code allows the user to perform the following functions:
 1. Create a database
